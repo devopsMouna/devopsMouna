@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mouna Akka! 👋</h1>
 
 
-<p align="center">DevOps Engineer | AWS | Kubernetes | Docker | Spring Boot | MySQL | HTML | CSS | JS</p>
+<p align="center">DevOps Engineer | AWS | Kubernetes | Docker | Spring Boot | Angular | MySQL | HTML | CSS | JS</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouna-akka-7565b9231/">
