@@ -16,7 +16,7 @@
   <li>Containerization: Docker, Kubernetes (K8s)</li>
   <li>Backend Development: Spring Boot, RESTful APIs</li>
   <li>Databases: MySQL</li>
-  <li>Frontend Technologies: HTML, CSS, JavaScript</li>
+  <li>Frontend Technologies: HTML, CSS, JavaScript, Angular </li>
   <li>CI/CD:GitHub Actions</li>
   <li>Monitoring & Logging: Prometheus, Grafana</li>
   <li>Version Control: Git</li>
